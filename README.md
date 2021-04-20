@@ -1,4 +1,5 @@
 # openapi-generator-cli-docker-quickstart
+
 Try OpenAPI Generator fast and without Java. Based on Petstore example.
 
 NOTE: Requires Docker.
