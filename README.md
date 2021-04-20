@@ -4,7 +4,7 @@ Try OpenAPI Generator fast and without Java. Based on Petstore example.
 NOTE: Requires Docker.
 
 ```
-usage: openapi_gen_quickstart.sh <generator_name> <output_dir>
+usage: ./openapi_gen_quickstart.sh <generator_name> <output_dir>
 ```
 
 ## Example Usage
