@@ -4,18 +4,18 @@ Try OpenAPI Generator fast and without Java. Based on Petstore example.
 
 NOTE: Requires Docker.
 
-```sh
+```bash
 usage: ./openapi_gen_quickstart.sh <generator_name> <output_dir>
 ```
 
 To see all available generators, run:
-```
+```bash
 docker pull openapitools/openapi-generator-cli:latest
 docker run openapitools/openapi-generator-cli:latest list
 ```
 
 ## Example Usage
-```sh
+```bash
 ❯ ./openapi_gen_quickstart.sh typescript-axios ./test
 [main] INFO  o.o.codegen.DefaultGenerator - Generating with dryRun=false
 [main] INFO  o.o.c.ignore.CodegenIgnoreProcessor - No .openapi-generator-ignore file found.
